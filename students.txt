@@ -1,0 +1,4 @@
+Victor,Mouallem,Victor.Mouallem@e.braude.ac.il,Web;Cloud,https://www.n12.co.il/
+Oneel,Abed,oneel.abed@e.braude.ac.il,Web;Cloud,https://israelconflictmonitor.org/
+Victor Mouallem,N12
+Oneel Abed,Winner
