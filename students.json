@@ -1,0 +1,15 @@
+[
+    {
+        "first": "Victor",
+        "last": "Mouallem",
+        "braude_email": "Victor.Mouallem@e.braude.ac.il",
+        "courses": [
+            "Cloud",
+            "Data Mining",
+            "Web",
+            "physics"
+        ],
+        "link": "https://www.python.org",
+        "favorite_program": "Winner"
+    }
+]
