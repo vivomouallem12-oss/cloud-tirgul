@@ -11,5 +11,18 @@
         ],
         "link": "https://www.python.org",
         "favorite_program": "Winner"
+    },
+    {
+        "first": "Oneel",
+        "last": "Abed",
+        "braude_email": "Oneel.Abed@e.braude.ac.il",
+        "courses": [
+            "Cloud",
+            "Data Mining",
+            "Web",
+            "physics"
+        ],
+        "link": "https://www.python.org",
+        "favorite_program": "Winner"
     }
 ]
